@@ -1,2 +1,1 @@
-"# testing01" 
-"hello first repository"
+"testing01"
